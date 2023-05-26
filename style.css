@@ -5,12 +5,13 @@
 .paragraph1{
     text-align: left;
     font-size: 20px;
+    color: rgb(244, 240, 239);
     font-family:sans-serif;
 }
 .paragraph2{
     text-align:center;
     font-size: 100px;
-    color: rgb(222, 42, 25);
+    color: rgb(29, 206, 237);
     font-family: nos;
 }
 .menu-bar
@@ -82,12 +83,12 @@ background-color: #5ed30a;
 }
 
 .footer{
-    background-color:rgb(210, 194, 194);
+    background-color:rgb(30, 28, 28);
     margin-top:10%;
-    padding: 10px 5px;
+    padding: 5px 5px;
 }
 .p1{
-    color: rgb(237, 234, 228);
+    color: rgb(24, 24, 24);
     font-size: large;
     padding-bottom: 15px;
     
